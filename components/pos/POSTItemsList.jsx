@@ -190,28 +190,28 @@ const POSTItemsList = ({ allProducts }) => {
                 <div className="w-1/2 sm:w-full">
                   <div className='flex-col justify-center'>
                     <div className='flex justify-center items-center'>
-                      <button className='p-2 text-xl mx-1 border-2'>1</button>
-                      <button className='p-2 text-xl mx-1 border-2'>2</button>
-                      <button className='p-2 text-xl mx-1 border-2'>3</button>
-                      <button className='p-2 text-xl mx-1 border-2 bg-green-600'>Qty</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>1</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>2</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>3</button>
+                      <button className='p-2 text-xs mx-1 border-2 bg-green-600 h-12 w-12 m-0.5 p-0.5'>Qty</button>
                     </div>
                     <div className='flex justify-center items-center'>
-                      <button className='p-2 text-xl mx-1 border-2'>4</button>
-                      <button className='p-2 text-xl mx-1 border-2'>5</button>
-                      <button className='p-2 text-xl mx-1 border-2'>6</button>
-                      <button className='p-2 text-xl mx-1 border-2'>Disc</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>4</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>5</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>6</button>
+                      <button className='p-2 text-xs mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>Disc</button>
                     </div>
                     <div className="flex justify-center items-center">
-                      <button className='p-2 text-xl mx-1 border-2'>7</button>
-                      <button className='p-2 text-xl mx-1 border-2'>8</button>
-                      <button className='p-2 text-xl mx-1 border-2'>9</button>
-                      <button className='p-2 text-xl mx-1 border-2'>Price</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>7</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>8</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>9</button>
+                      <button className='p-2 text-xs mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>Price</button>
                     </div>
                     <div className="flex justify-center items-center">
-                      <button className='p-2 text-xl mx-1 border-2'>+/-</button>
-                      <button className='p-2 text-xl mx-1 border-2'>0</button>
-                      <button className='p-2 text-xl mx-1 border-2'>.</button>
-                      <button className='p-2 text-xl mx-1 border-2'>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>+/-</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>0</button>
+                      <button className='p-2 text-xl mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>.</button>
+                      <button className='p-2 text-xs mx-1 border-2 h-12 w-12 m-0.5 p-0.5'>
                         <BackspaceIcon className='h-6 w-6' />
                       </button>
                     </div>
